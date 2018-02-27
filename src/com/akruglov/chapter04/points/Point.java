@@ -1,5 +1,7 @@
 package com.akruglov.chapter04.points;
 
+import java.util.Objects;
+
 /**
  * Created by akruglov on 28.03.17.
  */
@@ -23,7 +25,7 @@ public class Point implements Cloneable {
 
     @Override
     public String toString() {
-        return "Point{" +
+        return getClass().getName() + "{" +
                 "x=" + x +
                 ", y=" + y +
                 '}';
@@ -42,13 +44,15 @@ public class Point implements Cloneable {
 
     @Override
     public int hashCode() {
+        /*
         int result;
         long temp;
         temp = Double.doubleToLongBits(x);
         result = (int) (temp ^ (temp >>> 32));
         temp = Double.doubleToLongBits(y);
         result = 31 * result + (int) (temp ^ (temp >>> 32));
-        return result;
+        return result;*/
+        return Objects.hash(x, y);
     }
 
     public Point clone() throws CloneNotSupportedException {

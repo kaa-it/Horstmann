@@ -2,7 +2,6 @@ package com.akruglov.chapter02;
 
 import com.opencsv.CSVReader;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 

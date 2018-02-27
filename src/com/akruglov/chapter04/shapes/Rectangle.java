@@ -28,9 +28,9 @@ public class Rectangle extends Shape {
 
     @Override
     public String toString() {
-        return "Rectangle{" +
+        return super.toString() + "{" +
                 "width=" + width +
                 ", height=" + height +
-                "} " + super.toString();
+                "}";
     }
 }

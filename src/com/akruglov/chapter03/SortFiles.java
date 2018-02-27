@@ -13,6 +13,11 @@ public class SortFiles {
 
         File[] files = dir.listFiles();
 
+        if (files == null) {
+            System.out.println("The directory is empty.");
+            return;
+        }
+
         for (File file : files) {
             System.out.println(file);
         }

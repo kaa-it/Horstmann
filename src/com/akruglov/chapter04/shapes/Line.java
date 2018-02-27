@@ -37,8 +37,8 @@ public class Line extends Shape {
 
     @Override
     public String toString() {
-        return "Line{" +
+        return super.toString() + "{" +
                 "to=" + to +
-                "} " + super.toString();
+                "}";
     }
 }

@@ -14,6 +14,10 @@ public class Circle extends Shape {
         this.radius = radius;
     }
 
+    public void scale(double factor) {
+        radius *= factor;
+    }
+
     @Override
     public Point getCenter() {
         return getPoint();
@@ -25,8 +29,8 @@ public class Circle extends Shape {
 
     @Override
     public String toString() {
-        return "Circle{" +
+        return super.toString() + "{" +
                 "radius=" + radius +
-                "} " + super.toString();
+                "}";
     }
 }

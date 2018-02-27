@@ -8,6 +8,6 @@ public class PrintInteger {
 	    System.out.println("Enter number: ");
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        System.out.printf("Your number: 0b%s, %#o, %<#x\n", Integer.toBinaryString(number), number);
+        System.out.printf("Your number: 0b%s, %#o, %<#x, %#a\n", Integer.toBinaryString(number), number, 1.0/number);
     }
 }

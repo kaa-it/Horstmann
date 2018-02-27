@@ -11,25 +11,37 @@ public class PrintDirectories {
     public static void main(String[] args) {
         File dir = new File("/home/akruglov");
 
-        for (File d : dir.listFiles((f) -> f.isDirectory())) {
-            System.out.println(d);
+        File[] files = dir.listFiles((f) -> f.isDirectory());
+
+        if (files != null) {
+            for (File d : files) {
+                System.out.println(d);
+            }
         }
 
         System.out.println("==========");
 
-        for (File d : dir.listFiles(File::isDirectory)) {
-            System.out.println(d);
+        files = dir.listFiles(File::isDirectory);
+
+        if (files != null) {
+            for (File d : files) {
+                System.out.println(d);
+            }
         }
 
         System.out.println("==========");
 
-        for (File d : dir.listFiles(new FileFilter() {
+        files = dir.listFiles(new FileFilter() {
             @Override
             public boolean accept(File pathname) {
                 return pathname.isDirectory();
             }
-        })) {
-            System.out.println(d);
+        });
+
+        if (files != null) {
+            for (File d : files) {
+                System.out.println(d);
+            }
         }
     }
 

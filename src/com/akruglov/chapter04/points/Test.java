@@ -23,6 +23,7 @@ public class Test {
             System.out.println(labeledPoint2);
             Circle circle2 = circle.clone();
             circle.moveBy(10, 10);
+            circle.scale(4.0);
             System.out.println(circle2);
             Rectangle rectangle2 = rectangle.clone();
             rectangle.moveBy(10, 10);

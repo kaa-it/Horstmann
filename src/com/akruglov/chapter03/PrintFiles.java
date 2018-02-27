@@ -11,8 +11,12 @@ public class PrintFiles {
     public static void main(String[] args) {
         File dir = new File("/home/akruglov/Projects");
 
-        for (String file : dir.list((directory, name) -> name.endsWith(".zip"))) {
-            System.out.println(file);
+        String[] zipFiles = dir.list((directory, name) -> name.endsWith(".zip"));
+
+        if (zipFiles != null) {
+            for (String file : zipFiles) {
+                System.out.println(file);
+            }
         }
     }
 }

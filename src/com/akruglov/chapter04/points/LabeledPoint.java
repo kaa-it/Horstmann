@@ -1,5 +1,7 @@
 package com.akruglov.chapter04.points;
 
+import java.util.Objects;
+
 /**
  * Created by akruglov on 28.03.17.
  */
@@ -14,15 +16,13 @@ public class LabeledPoint extends Point {
 
     @Override
     public String toString() {
-        return "LabeledPoint{" +
+        return super.toString() + "{" +
                 "label='" + label + '\'' +
-                "} " + super.toString();
+                "}";
     }
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
 
         LabeledPoint that = (LabeledPoint) o;
@@ -32,9 +32,10 @@ public class LabeledPoint extends Point {
 
     @Override
     public int hashCode() {
-        int result = super.hashCode();
+        /*int result = super.hashCode();
         result = 31 * result + (label != null ? label.hashCode() : 0);
-        return result;
+        return result;*/
+        return Objects.hash(super.hashCode(), label);
     }
 
     @Override

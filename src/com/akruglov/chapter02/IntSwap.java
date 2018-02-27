@@ -1,6 +1,8 @@
 package com.akruglov.chapter02;
 
-import jdk.nashorn.internal.runtime.regexp.joni.encoding.IntHolder;
+class IntHolder {
+    public int value;
+}
 
 /**
  * Created by akruglov on 23.03.17.

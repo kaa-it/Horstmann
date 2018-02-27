@@ -12,7 +12,6 @@ public class Substrings {
         Scanner scanner = new Scanner(System.in);
         String text = scanner.nextLine();
 
-
         for (int j = 0; j < text.length(); j++) {
             for (int i = j+1; i <= text.length(); i++) {
                 String substring = text.substring(j, i);

@@ -1,7 +1,7 @@
 package com.akruglov.chapter04.shapes;
 
 import com.akruglov.chapter04.points.Point;
-import sun.security.provider.SHA;
+//import sun.security.provider.SHA;
 
 /**
  * Created by akruglov on 28.03.17.
@@ -31,7 +31,7 @@ public abstract class Shape implements Cloneable {
 
     @Override
     public String toString() {
-        return "Shape{" +
+        return getClass().getName() + "{" +
                 "point=" + point +
                 '}';
     }
