@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-01T08:03:27.450974Z</date>
+  <millis>1519891407450</millis>
+  <nanos>974000</nanos>
+  <sequence>0</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 100</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.464431Z</date>
+  <millis>1519891407464</millis>
+  <nanos>431000</nanos>
+  <sequence>1</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 99</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.464748Z</date>
+  <millis>1519891407464</millis>
+  <nanos>748000</nanos>
+  <sequence>2</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 98</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.464995Z</date>
+  <millis>1519891407464</millis>
+  <nanos>995000</nanos>
+  <sequence>3</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 97</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.465149Z</date>
+  <millis>1519891407465</millis>
+  <nanos>149000</nanos>
+  <sequence>4</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 96</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.465361Z</date>
+  <millis>1519891407465</millis>
+  <nanos>361000</nanos>
+  <sequence>5</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 95</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.465557Z</date>
+  <millis>1519891407465</millis>
+  <nanos>557000</nanos>
+  <sequence>6</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 94</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.465712Z</date>
+  <millis>1519891407465</millis>
+  <nanos>712000</nanos>
+  <sequence>7</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 93</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.465935Z</date>
+  <millis>1519891407465</millis>
+  <nanos>935000</nanos>
+  <sequence>8</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 92</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.466117Z</date>
+  <millis>1519891407466</millis>
+  <nanos>117000</nanos>
+  <sequence>9</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 91</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.466252Z</date>
+  <millis>1519891407466</millis>
+  <nanos>252000</nanos>
+  <sequence>10</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 90</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.466423Z</date>
+  <millis>1519891407466</millis>
+  <nanos>423000</nanos>
+  <sequence>11</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 89</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.466645Z</date>
+  <millis>1519891407466</millis>
+  <nanos>645000</nanos>
+  <sequence>12</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 88</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.466766Z</date>
+  <millis>1519891407466</millis>
+  <nanos>766000</nanos>
+  <sequence>13</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 87</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.466923Z</date>
+  <millis>1519891407466</millis>
+  <nanos>923000</nanos>
+  <sequence>14</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 86</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.467109Z</date>
+  <millis>1519891407467</millis>
+  <nanos>109000</nanos>
+  <sequence>15</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 85</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.467280Z</date>
+  <millis>1519891407467</millis>
+  <nanos>280000</nanos>
+  <sequence>16</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 84</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.467447Z</date>
+  <millis>1519891407467</millis>
+  <nanos>447000</nanos>
+  <sequence>17</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 83</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.467627Z</date>
+  <millis>1519891407467</millis>
+  <nanos>627000</nanos>
+  <sequence>18</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 82</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.467750Z</date>
+  <millis>1519891407467</millis>
+  <nanos>750000</nanos>
+  <sequence>19</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 81</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.467897Z</date>
+  <millis>1519891407467</millis>
+  <nanos>897000</nanos>
+  <sequence>20</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 80</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468008Z</date>
+  <millis>1519891407468</millis>
+  <nanos>8000</nanos>
+  <sequence>21</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 79</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468134Z</date>
+  <millis>1519891407468</millis>
+  <nanos>134000</nanos>
+  <sequence>22</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 78</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468241Z</date>
+  <millis>1519891407468</millis>
+  <nanos>241000</nanos>
+  <sequence>23</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 77</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468392Z</date>
+  <millis>1519891407468</millis>
+  <nanos>392000</nanos>
+  <sequence>24</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 76</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468505Z</date>
+  <millis>1519891407468</millis>
+  <nanos>505000</nanos>
+  <sequence>25</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 75</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468610Z</date>
+  <millis>1519891407468</millis>
+  <nanos>610000</nanos>
+  <sequence>26</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 74</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468714Z</date>
+  <millis>1519891407468</millis>
+  <nanos>714000</nanos>
+  <sequence>27</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 73</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468856Z</date>
+  <millis>1519891407468</millis>
+  <nanos>856000</nanos>
+  <sequence>28</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 72</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.468991Z</date>
+  <millis>1519891407468</millis>
+  <nanos>991000</nanos>
+  <sequence>29</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 71</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469086Z</date>
+  <millis>1519891407469</millis>
+  <nanos>86000</nanos>
+  <sequence>30</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 70</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469238Z</date>
+  <millis>1519891407469</millis>
+  <nanos>238000</nanos>
+  <sequence>31</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 69</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469350Z</date>
+  <millis>1519891407469</millis>
+  <nanos>350000</nanos>
+  <sequence>32</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 68</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469450Z</date>
+  <millis>1519891407469</millis>
+  <nanos>450000</nanos>
+  <sequence>33</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 67</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469544Z</date>
+  <millis>1519891407469</millis>
+  <nanos>544000</nanos>
+  <sequence>34</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 66</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469648Z</date>
+  <millis>1519891407469</millis>
+  <nanos>648000</nanos>
+  <sequence>35</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 65</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469747Z</date>
+  <millis>1519891407469</millis>
+  <nanos>747000</nanos>
+  <sequence>36</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 64</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469841Z</date>
+  <millis>1519891407469</millis>
+  <nanos>841000</nanos>
+  <sequence>37</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 63</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.469941Z</date>
+  <millis>1519891407469</millis>
+  <nanos>941000</nanos>
+  <sequence>38</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 62</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470042Z</date>
+  <millis>1519891407470</millis>
+  <nanos>42000</nanos>
+  <sequence>39</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 61</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470137Z</date>
+  <millis>1519891407470</millis>
+  <nanos>137000</nanos>
+  <sequence>40</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 60</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470233Z</date>
+  <millis>1519891407470</millis>
+  <nanos>233000</nanos>
+  <sequence>41</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 59</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470354Z</date>
+  <millis>1519891407470</millis>
+  <nanos>354000</nanos>
+  <sequence>42</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 58</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470456Z</date>
+  <millis>1519891407470</millis>
+  <nanos>456000</nanos>
+  <sequence>43</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 57</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470552Z</date>
+  <millis>1519891407470</millis>
+  <nanos>552000</nanos>
+  <sequence>44</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 56</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470646Z</date>
+  <millis>1519891407470</millis>
+  <nanos>646000</nanos>
+  <sequence>45</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 55</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470741Z</date>
+  <millis>1519891407470</millis>
+  <nanos>741000</nanos>
+  <sequence>46</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 54</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.470896Z</date>
+  <millis>1519891407470</millis>
+  <nanos>896000</nanos>
+  <sequence>47</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 53</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471003Z</date>
+  <millis>1519891407471</millis>
+  <nanos>3000</nanos>
+  <sequence>48</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 52</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471095Z</date>
+  <millis>1519891407471</millis>
+  <nanos>95000</nanos>
+  <sequence>49</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 51</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471199Z</date>
+  <millis>1519891407471</millis>
+  <nanos>199000</nanos>
+  <sequence>50</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 50</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471308Z</date>
+  <millis>1519891407471</millis>
+  <nanos>308000</nanos>
+  <sequence>51</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 49</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471413Z</date>
+  <millis>1519891407471</millis>
+  <nanos>413000</nanos>
+  <sequence>52</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 48</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471500Z</date>
+  <millis>1519891407471</millis>
+  <nanos>500000</nanos>
+  <sequence>53</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 47</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471594Z</date>
+  <millis>1519891407471</millis>
+  <nanos>594000</nanos>
+  <sequence>54</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 46</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471684Z</date>
+  <millis>1519891407471</millis>
+  <nanos>684000</nanos>
+  <sequence>55</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 45</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471772Z</date>
+  <millis>1519891407471</millis>
+  <nanos>772000</nanos>
+  <sequence>56</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 44</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471861Z</date>
+  <millis>1519891407471</millis>
+  <nanos>861000</nanos>
+  <sequence>57</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 43</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.471950Z</date>
+  <millis>1519891407471</millis>
+  <nanos>950000</nanos>
+  <sequence>58</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 42</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.472070Z</date>
+  <millis>1519891407472</millis>
+  <nanos>70000</nanos>
+  <sequence>59</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 41</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.472220Z</date>
+  <millis>1519891407472</millis>
+  <nanos>220000</nanos>
+  <sequence>60</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 40</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.472349Z</date>
+  <millis>1519891407472</millis>
+  <nanos>349000</nanos>
+  <sequence>61</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 39</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.472470Z</date>
+  <millis>1519891407472</millis>
+  <nanos>470000</nanos>
+  <sequence>62</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 38</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.472590Z</date>
+  <millis>1519891407472</millis>
+  <nanos>590000</nanos>
+  <sequence>63</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 37</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.472731Z</date>
+  <millis>1519891407472</millis>
+  <nanos>731000</nanos>
+  <sequence>64</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 36</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.472821Z</date>
+  <millis>1519891407472</millis>
+  <nanos>821000</nanos>
+  <sequence>65</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 35</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.472909Z</date>
+  <millis>1519891407472</millis>
+  <nanos>909000</nanos>
+  <sequence>66</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 34</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.473003Z</date>
+  <millis>1519891407473</millis>
+  <nanos>3000</nanos>
+  <sequence>67</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 33</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.473090Z</date>
+  <millis>1519891407473</millis>
+  <nanos>90000</nanos>
+  <sequence>68</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 32</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.473176Z</date>
+  <millis>1519891407473</millis>
+  <nanos>176000</nanos>
+  <sequence>69</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 31</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.473259Z</date>
+  <millis>1519891407473</millis>
+  <nanos>259000</nanos>
+  <sequence>70</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 30</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.473356Z</date>
+  <millis>1519891407473</millis>
+  <nanos>356000</nanos>
+  <sequence>71</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 29</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.473464Z</date>
+  <millis>1519891407473</millis>
+  <nanos>464000</nanos>
+  <sequence>72</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 28</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.473599Z</date>
+  <millis>1519891407473</millis>
+  <nanos>599000</nanos>
+  <sequence>73</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 27</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.473815Z</date>
+  <millis>1519891407473</millis>
+  <nanos>815000</nanos>
+  <sequence>74</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 26</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.474135Z</date>
+  <millis>1519891407474</millis>
+  <nanos>135000</nanos>
+  <sequence>75</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 25</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.474443Z</date>
+  <millis>1519891407474</millis>
+  <nanos>443000</nanos>
+  <sequence>76</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 24</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.474661Z</date>
+  <millis>1519891407474</millis>
+  <nanos>661000</nanos>
+  <sequence>77</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 23</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.475006Z</date>
+  <millis>1519891407475</millis>
+  <nanos>6000</nanos>
+  <sequence>78</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 22</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.475236Z</date>
+  <millis>1519891407475</millis>
+  <nanos>236000</nanos>
+  <sequence>79</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 21</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.475641Z</date>
+  <millis>1519891407475</millis>
+  <nanos>641000</nanos>
+  <sequence>80</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 20</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.475956Z</date>
+  <millis>1519891407475</millis>
+  <nanos>956000</nanos>
+  <sequence>81</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 19</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.476377Z</date>
+  <millis>1519891407476</millis>
+  <nanos>377000</nanos>
+  <sequence>82</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 18</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.476798Z</date>
+  <millis>1519891407476</millis>
+  <nanos>798000</nanos>
+  <sequence>83</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 17</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.477287Z</date>
+  <millis>1519891407477</millis>
+  <nanos>287000</nanos>
+  <sequence>84</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 16</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.477418Z</date>
+  <millis>1519891407477</millis>
+  <nanos>418000</nanos>
+  <sequence>85</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 15</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.477504Z</date>
+  <millis>1519891407477</millis>
+  <nanos>504000</nanos>
+  <sequence>86</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 14</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.477591Z</date>
+  <millis>1519891407477</millis>
+  <nanos>591000</nanos>
+  <sequence>87</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 13</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.477779Z</date>
+  <millis>1519891407477</millis>
+  <nanos>779000</nanos>
+  <sequence>88</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 12</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.477871Z</date>
+  <millis>1519891407477</millis>
+  <nanos>871000</nanos>
+  <sequence>89</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 11</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.477954Z</date>
+  <millis>1519891407477</millis>
+  <nanos>954000</nanos>
+  <sequence>90</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 10</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478044Z</date>
+  <millis>1519891407478</millis>
+  <nanos>44000</nanos>
+  <sequence>91</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 9</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478138Z</date>
+  <millis>1519891407478</millis>
+  <nanos>138000</nanos>
+  <sequence>92</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 8</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478224Z</date>
+  <millis>1519891407478</millis>
+  <nanos>224000</nanos>
+  <sequence>93</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 7</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478304Z</date>
+  <millis>1519891407478</millis>
+  <nanos>304000</nanos>
+  <sequence>94</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 6</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478404Z</date>
+  <millis>1519891407478</millis>
+  <nanos>404000</nanos>
+  <sequence>95</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 5</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478522Z</date>
+  <millis>1519891407478</millis>
+  <nanos>522000</nanos>
+  <sequence>96</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 4</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478661Z</date>
+  <millis>1519891407478</millis>
+  <nanos>661000</nanos>
+  <sequence>97</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 3</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478794Z</date>
+  <millis>1519891407478</millis>
+  <nanos>794000</nanos>
+  <sequence>98</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 2</message>
+</record>
+<record>
+  <date>2018-03-01T08:03:27.478930Z</date>
+  <millis>1519891407478</millis>
+  <nanos>930000</nanos>
+  <sequence>99</sequence>
+  <logger>com.akruglov.chapter05</logger>
+  <level>INFO</level>
+  <class>com.akruglov.chapter05.HtmlLogger</class>
+  <method>factorial</method>
+  <thread>1</thread>
+  <message>Facorial: 1</message>
+</record>
+</log>
