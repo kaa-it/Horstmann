@@ -101,7 +101,7 @@ public class HtmlLogger {
         Logger logger = Logger.getLogger("com.akruglov.chapter05");
 
         try {
-            FileHandler handler = new FileHandler("myapp.html.log.%u");
+            FileHandler handler = new FileHandler("myapp.log.%u.html");
             handler.setFormatter(new HtmlFormatter());
             logger.setUseParentHandlers(false);
             logger.addHandler(handler);
@@ -112,7 +112,7 @@ public class HtmlLogger {
 
     public static BigInteger factorial(int n) {
         Logger logger = Logger.getLogger("com.akruglov.chapter05");
-        logger.info("Facorial: " + n);
+        logger.info("Factorial: " + n);
 
         if (n == 0 || n == 1) {
             return BigInteger.ONE;
